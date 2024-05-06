@@ -7,8 +7,9 @@ import org.springframework.web.servlet.ModelAndView;
 
 import java.security.Principal;
 
+
 /**
- * Atenção aluno, para o CP 2 - Não precisa alterar nada neste arquivo
+ * Atenção aluno, para o CP 2 - Não precisa alterar nada neste arquiv
  */
 @RestController
 @RequestMapping(value = "/")
